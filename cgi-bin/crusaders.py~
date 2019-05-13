@@ -1,0 +1,11 @@
+#!/usr/bin/python
+
+print "<html>"
+print "<head>"
+print "<title>SPORTSNOW NEXTPAGE</title>"
+print "</head>"
+print "<body>"
+print "<h2>Please Select One Of The Teams And Find Out Their Status!</h2>"
+
+print "</head>"
+print "</html>"
